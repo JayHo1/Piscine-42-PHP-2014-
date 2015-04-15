@@ -1,0 +1,75 @@
+body {
+	background-image: url("https://lejournal.cnrs.fr/sites/default/files/assets/images/fotolia_49371695_m.jpg");
+	background-position: center;
+	background-size: cover;
+	font-size: 20px;
+}
+td {
+	border: 1px solid white;
+	border-radius: 5px;
+	height: 5vh;
+
+}
+thead {
+	color: white;
+}
+h1 {
+	color: white;
+}
+caption {
+	font-size: 1.7vw;
+}
+.position {
+	vertical-align: bottom;
+}
+.alkali-metal {
+	background-color: #FF33FF;
+}
+.alkaline-earth {
+	background-color: #FFB266;
+}
+.transition-metal {
+	background-color: #FFFF33;
+}
+.basic-metal {
+	background-color: #99FF99;
+}
+.semimetal {
+	background-color: #3399FF;
+}
+.nonmetal {
+	background-color: #9999FF;
+}
+.halogen {
+	background-color: #CCCCFF;
+}
+.noble-gas {
+	background-color: #E5CCFF;
+}
+.lanthanide {
+	background-color: #9B751B;
+}
+.actinide {
+	background-color: #C1A156;
+}
+.atomicn {
+	text-align: left;
+}
+.Mass {
+	text-align: right;
+}
+.Name  {
+	text-align: center;
+}
+.Symbol {
+	text-align: center;
+	font-size: 1.5vw;
+}
+
+@media screen and (max-width: 1700px) {
+	body {
+		font-size: 1vw;
+		background-position: center;
+		background-size: cover;
+	} 
+}

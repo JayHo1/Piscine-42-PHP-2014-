@@ -1,0 +1,181 @@
+body {
+	background-color: #606060;
+}
+
+a {
+	font-size: 30px;
+}
+
+.container {
+	display: block;
+	margin-right: 100px;
+	margin-left: 430px;
+	width: 1600px;
+	height: 140px;
+	background-color: #909090;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+.imgright {
+	float: right;
+	margin-top: 15px;
+}
+
+.imgleft {
+	float: left;
+	margin-left: 10px;
+	width: 500px;
+}
+
+.imgheadright {
+	float: right;
+	margin-right: 4px;
+	width: 20px;
+}
+
+.imgheadbot {
+	float: right;
+	vertical-align: bottom;
+	margin: 110px -20px 0 0;
+}
+
+.container2 {
+	display: block;
+	margin-top: 30px;
+	margin-right: 200px;
+	margin-left: 478px;
+	width: 1500px;
+	height: 600px;
+}
+
+.asideright {
+	float: right;
+	display: inline-block;
+	width: 180px;
+	height: 480px;
+	background-color: #909090;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+.asideleft {
+	float: left;
+	display: inline-block;
+	width: 180px;
+	height: 480px;
+	background-color: #909090;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+.section {
+	display: inline-block;
+	width: 1050px;
+	height: 598px;
+	background-color: #909090;
+	margin-left: 40px;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+.imgsection {
+	margin-left: 13px;
+	margin-top: 10px;
+}
+
+.imgbrick {
+	position: relative;
+}
+
+.img1 {
+	width: 70px;
+	margin-left: 50px;
+	margin-top: 12px;
+}
+
+.img {
+	width: 100px;
+	margin-left: 45px;
+}
+
+.imgoeil {
+	border: 7px solid red;
+}
+
+.container3 {
+	position: relative;
+	bottom: 80px;
+	margin-left: 380px;
+	width: 530px;
+	height: 140px;
+	background-color: #66FF66;
+	border-radius: 10px;
+	box-shadow: 13px 13px 12px #000;
+}
+
+.formulaire {
+	display:inline-block;
+}
+
+.formulaire .champ {
+	position: relative;
+	margin-left: 10px;
+	width: 370px; 
+	height: 20px;
+	bottom: 10px;
+}
+
+.formulaire .bouton { 
+	background-repeat: no-repeat;
+	width: 80px;
+	height: 55px;
+	padding: 0; 
+	position: relative;
+	bottom: 10px;
+}
+
+.text {
+	position: relative;
+	left: 12px;
+}
+
+.ordi {
+	text-shadow: 8px 5px 8px #FF0000;
+}
+
+.text1 {
+	position: relative;
+	bottom: 10px;
+	left: 10px;
+}
+
+.imgbrick1 {
+	position: relative;
+	left: 10px;
+}
+
+.imgbrick5 {
+	position: relative;
+	right: 10px;
+}
+
+.imgbrick2 {
+	position: relative;
+	left: 4px;
+}
+
+.imgbrick4 {
+	position: relative;
+	right: 4px;
+}
+
+.imgbricks {
+	position: relative;
+	top: 4px;
+}
+
+.imgbricka {
+	position: relative;
+	bottom: 4px;
+}
